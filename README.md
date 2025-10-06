@@ -1,4 +1,4 @@
-# macchanger_nmap
+# Network scanner nmap
 
 > A  Bash wrapper around `nmap` that automates common scans and formats results for easy reading.  
 > **Use only on networks you own or are authorized to test.**
