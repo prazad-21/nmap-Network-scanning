@@ -6,7 +6,7 @@
 ---
 
 ## 📌 Overview
-"nmap.sh is a lightweight Bash script to run nmap scans (ports, service detection, optional OS fingerprinting), summarize results, and Designed for quick reconnaissance in lab or authorized environments.
+`nmap`.sh is a lightweight Bash script to run nmap scans (ports, service detection, optional OS fingerprinting), summarize results, and Designed for quick reconnaissance in lab or authorized environments.
 
 ---
 
@@ -18,6 +18,10 @@
 - Basic input validation and helpful `--help`
 
   ## nmap.sh setup guide
+  git clone https://github.com/prazad-21/nmap-Network-scanning.git
+  cd nmap-Network-scanning
+  chmod +x nmap-Network-scanning
+  ./nmap-Network-scanning
   
 
 ---
